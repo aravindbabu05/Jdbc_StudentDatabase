@@ -61,6 +61,7 @@ public class Main {
             }
             else if(option==4)
             {
+                break ;
 
             }
             else if(option==5)
